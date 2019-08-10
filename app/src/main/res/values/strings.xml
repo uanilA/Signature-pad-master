@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SignaturePad</string>
+    <string name="agreement">I agree the terms and conditions.</string>
+    <string name="clear_pad">Clear Pad</string>
+    <string name="save_signature">Save Signature</string>
+    <string name="for_gallery_message">Signature saved into the Gallery</string>
+    <string name="unble_to_store_signature">Unable to store the signature</string>
+    <string name="svg_signature_msg">SVG Signature saved into the Gallery</string>
+    <string name="unable_to_svg">Unable to store the SVG signature</string>
+    <string name="cannot_save_image">Cannot write images to external storage</string>
+</resources>

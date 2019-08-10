@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/mindiii/Desktop/Demo test/Signature-pad-master/signature-pad/build/intermediates/res/merged/debug/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/home/mindiii/.gradle/caches/transforms-2/files-2.1/14616bc9f6b378fb4157df898fb7896e/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/mindiii/Desktop/Demo test/Signature-pad-master/signature-pad/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/home/mindiii/.gradle/caches/transforms-2/files-2.1/14616bc9f6b378fb4157df898fb7896e/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

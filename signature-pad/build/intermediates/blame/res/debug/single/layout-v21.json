@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/mindiii/Desktop/Demo test/Signature-pad-master/signature-pad/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/mindiii/.gradle/caches/transforms-2/files-2.1/14616bc9f6b378fb4157df898fb7896e/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/mindiii/Desktop/Demo test/Signature-pad-master/signature-pad/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/mindiii/.gradle/caches/transforms-2/files-2.1/14616bc9f6b378fb4157df898fb7896e/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/mindiii/Desktop/Demo test/Signature-pad-master/signature-pad/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/mindiii/.gradle/caches/transforms-2/files-2.1/14616bc9f6b378fb4157df898fb7896e/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/mindiii/Desktop/Demo test/Signature-pad-master/signature-pad/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/mindiii/.gradle/caches/transforms-2/files-2.1/14616bc9f6b378fb4157df898fb7896e/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
