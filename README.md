@@ -1,5 +1,5 @@
 # Signature-pad-master
-Example Android Signature pad project that works with jitpack.io.
+Example Android Signature pad project that works for electronic signature.
 
 See this Tutorial on how to user Signature pad for your project.
 
